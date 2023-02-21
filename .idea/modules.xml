@@ -6,7 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/_1_PassByValuewithPrimitives/_1_PassByValuewithPrimitives.iml" filepath="$PROJECT_DIR$/_1_PassByValuewithPrimitives/_1_PassByValuewithPrimitives.iml" />
       <module fileurl="file://$PROJECT_DIR$/_2_PassByValuewithReferences/_2_PassByValuewithReferences.iml" filepath="$PROJECT_DIR$/_2_PassByValuewithReferences/_2_PassByValuewithReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/_3_Arrays/_3_Arrays.iml" filepath="$PROJECT_DIR$/_3_Arrays/_3_Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_5_LoopsandArrays/_5_LoopsandArrays.iml" filepath="$PROJECT_DIR$/_5_LoopsandArrays/_5_LoopsandArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4_LoopsandArrays/_4_LoopsandArrays.iml" filepath="$PROJECT_DIR$/_4_LoopsandArrays/_4_LoopsandArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5_WhiledoWhile/_5_WhiledoWhile.iml" filepath="$PROJECT_DIR$/_5_WhiledoWhile/_5_WhiledoWhile.iml" />
     </modules>
   </component>
 </project>
