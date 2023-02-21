@@ -13,7 +13,8 @@ public class Main {
         System.out.println(age); // Again , age will not change
 
     }
-    static int increment(int age){
+
+    static int increment(int age) {
         return ++age;
     }
 }
