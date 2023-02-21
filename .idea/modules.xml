@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/_5_WhiledoWhile/_5_WhiledoWhile.iml" filepath="$PROJECT_DIR$/_5_WhiledoWhile/_5_WhiledoWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/_6_IfStatements/_6_IfStatements.iml" filepath="$PROJECT_DIR$/_6_IfStatements/_6_IfStatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/_7_LogicalOperators/_7_LogicalOperators.iml" filepath="$PROJECT_DIR$/_7_LogicalOperators/_7_LogicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_8_SwitchStatements/_8_SwitchStatements.iml" filepath="$PROJECT_DIR$/_8_SwitchStatements/_8_SwitchStatements.iml" />
     </modules>
   </component>
 </project>
