@@ -18,5 +18,20 @@ public class Main {
 
         String[] names = {"Özkan","Ali","Mehmet"};
         System.out.println("Names array: "+ Arrays.toString(names));
+
+        // Arrays null values
+        int[] array = new int[3];
+        array[0] = 2;
+        System.out.println(Arrays.toString(array)); // Default  value for int array is 0
+
+        Arrays.fill(array,333); // fill the array with this value
+
+        String[] strings = new String[3];
+        strings[1] ="Özkan";
+        System.out.println(Arrays.toString(strings)); // default  value for object array is null
+        Arrays.fill(strings,"foo");
+        System.out.println(Arrays.toString(strings));
+
+
     }
 }
