@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10_StaticKeyword/_10_StaticKeyword.iml" filepath="$PROJECT_DIR$/_10_StaticKeyword/_10_StaticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1_PassByValuewithPrimitives/_1_PassByValuewithPrimitives.iml" filepath="$PROJECT_DIR$/_1_PassByValuewithPrimitives/_1_PassByValuewithPrimitives.iml" />
       <module fileurl="file://$PROJECT_DIR$/_2_PassByValuewithReferences/_2_PassByValuewithReferences.iml" filepath="$PROJECT_DIR$/_2_PassByValuewithReferences/_2_PassByValuewithReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/_3_Arrays/_3_Arrays.iml" filepath="$PROJECT_DIR$/_3_Arrays/_3_Arrays.iml" />
