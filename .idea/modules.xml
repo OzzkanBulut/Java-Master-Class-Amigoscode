@@ -13,6 +13,8 @@
       <module fileurl="file://$PROJECT_DIR$/_008_SwitchStatements/_008_SwitchStatements.iml" filepath="$PROJECT_DIR$/_008_SwitchStatements/_008_SwitchStatements.iml" />
       <module fileurl="file://$PROJECT_DIR$/_009_AccessModifiers/_009_AccessModifiers.iml" filepath="$PROJECT_DIR$/_009_AccessModifiers/_009_AccessModifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/_010_StaticKeyword/_010_StaticKeyword.iml" filepath="$PROJECT_DIR$/_010_StaticKeyword/_010_StaticKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_011_Methods/_011_Methods.iml" filepath="$PROJECT_DIR$/_011_Methods/_011_Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_012_MethodExample/_012_MethodExample.iml" filepath="$PROJECT_DIR$/_012_MethodExample/_012_MethodExample.iml" />
     </modules>
   </component>
 </project>
