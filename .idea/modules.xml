@@ -3,16 +3,16 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_10_StaticKeyword/_10_StaticKeyword.iml" filepath="$PROJECT_DIR$/_10_StaticKeyword/_10_StaticKeyword.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_1_PassByValuewithPrimitives/_1_PassByValuewithPrimitives.iml" filepath="$PROJECT_DIR$/_1_PassByValuewithPrimitives/_1_PassByValuewithPrimitives.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_2_PassByValuewithReferences/_2_PassByValuewithReferences.iml" filepath="$PROJECT_DIR$/_2_PassByValuewithReferences/_2_PassByValuewithReferences.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_3_Arrays/_3_Arrays.iml" filepath="$PROJECT_DIR$/_3_Arrays/_3_Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_4_LoopsandArrays/_4_LoopsandArrays.iml" filepath="$PROJECT_DIR$/_4_LoopsandArrays/_4_LoopsandArrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_5_WhiledoWhile/_5_WhiledoWhile.iml" filepath="$PROJECT_DIR$/_5_WhiledoWhile/_5_WhiledoWhile.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_6_IfStatements/_6_IfStatements.iml" filepath="$PROJECT_DIR$/_6_IfStatements/_6_IfStatements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_7_LogicalOperators/_7_LogicalOperators.iml" filepath="$PROJECT_DIR$/_7_LogicalOperators/_7_LogicalOperators.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_8_SwitchStatements/_8_SwitchStatements.iml" filepath="$PROJECT_DIR$/_8_SwitchStatements/_8_SwitchStatements.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_9_AccessModifiers/_9_AccessModifiers.iml" filepath="$PROJECT_DIR$/_9_AccessModifiers/_9_AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_001_PassByValuewithPrimitives/_001_PassByValuewithPrimitives.iml" filepath="$PROJECT_DIR$/_001_PassByValuewithPrimitives/_001_PassByValuewithPrimitives.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_002_PassByValuewithReferences/_002_PassByValuewithReferences.iml" filepath="$PROJECT_DIR$/_002_PassByValuewithReferences/_002_PassByValuewithReferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_003_Arrays/_003_Arrays.iml" filepath="$PROJECT_DIR$/_003_Arrays/_003_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_004_LoopsandArrays/_004_LoopsandArrays.iml" filepath="$PROJECT_DIR$/_004_LoopsandArrays/_004_LoopsandArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_005_WhiledoWhile/_005_WhiledoWhile.iml" filepath="$PROJECT_DIR$/_005_WhiledoWhile/_005_WhiledoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_006_IfStatements/_006_IfStatements.iml" filepath="$PROJECT_DIR$/_006_IfStatements/_006_IfStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_007_LogicalOperators/_007_LogicalOperators.iml" filepath="$PROJECT_DIR$/_007_LogicalOperators/_007_LogicalOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_008_SwitchStatements/_008_SwitchStatements.iml" filepath="$PROJECT_DIR$/_008_SwitchStatements/_008_SwitchStatements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_009_AccessModifiers/_009_AccessModifiers.iml" filepath="$PROJECT_DIR$/_009_AccessModifiers/_009_AccessModifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_010_StaticKeyword/_010_StaticKeyword.iml" filepath="$PROJECT_DIR$/_010_StaticKeyword/_010_StaticKeyword.iml" />
     </modules>
   </component>
 </project>

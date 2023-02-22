@@ -11,7 +11,7 @@ public class Main {
         System.out.println(true&&false); // false
         System.out.println(true||false); // true
         System.out.println(true&&false&&true&&true&&true&&true); //false
-        System.out.println(true&&false||true); // false
+        System.out.println(true&&false||true); // true
 
         boolean isAdult = false;
         if(isAdult){

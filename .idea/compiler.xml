@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="_2_PassByValuewithReferences" options="--add-exports java.base/java=ALL-UNNAMED" />
+      <module name="_002_PassByValuewithReferences" options="--add-exports java.base/java=ALL-UNNAMED" />
     </option>
   </component>
 </project>
