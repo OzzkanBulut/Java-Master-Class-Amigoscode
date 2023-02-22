@@ -1,5 +1,6 @@
-public class Main {
+import java.util.Arrays;
 
+public class Main {
 
 
     enum Gender {
@@ -20,6 +21,12 @@ public class Main {
         System.out.println(TShirtSize.XL);
 
         System.out.println(Month.SEPTEMBER);
+//        System.out.println(Gender.valueOf("FEMALEs")); --> Exception, No enum constant in Gender.FEMALE
+        System.out.println(Arrays.toString(Gender.values())); // Prints all enum values
+
+        for(Gender gender: Gender.values()){
+            System.out.print(" "+gender);
+        } // same as above, prints all enum values
 
 
     }
