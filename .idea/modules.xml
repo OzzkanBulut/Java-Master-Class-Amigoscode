@@ -32,6 +32,7 @@
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" filepath="$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" filepath="$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_030_Scanner/_030_Scanner.iml" filepath="$PROJECT_DIR$/_030_Scanner/_030_Scanner.iml" />
     </modules>
   </component>
 </project>
