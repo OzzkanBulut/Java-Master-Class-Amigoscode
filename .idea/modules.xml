@@ -31,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" filepath="$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" filepath="$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" filepath="$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" />
     </modules>
   </component>
 </project>
