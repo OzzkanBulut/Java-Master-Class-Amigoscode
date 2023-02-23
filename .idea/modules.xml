@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/_031_Exceptions/_031_Exceptions.iml" filepath="$PROJECT_DIR$/_031_Exceptions/_031_Exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/_032_CheckedvsUncheckedExceptions/_032_CheckedvsUncheckedExceptions.iml" filepath="$PROJECT_DIR$/_032_CheckedvsUncheckedExceptions/_032_CheckedvsUncheckedExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" filepath="$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_034_CreateCustomExceptions/_034_CreateCustomExceptions.iml" filepath="$PROJECT_DIR$/_034_CreateCustomExceptions/_034_CreateCustomExceptions.iml" />
     </modules>
   </component>
 </project>
