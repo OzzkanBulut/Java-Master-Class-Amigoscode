@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/_021_WrapperClasses/_021_WrapperClasses.iml" filepath="$PROJECT_DIR$/_021_WrapperClasses/_021_WrapperClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" filepath="$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" />
       <module fileurl="file://$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" filepath="$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_024_StringLiteralvsStringObject/_024_StringLiteralvsStringObject.iml" filepath="$PROJECT_DIR$/_024_StringLiteralvsStringObject/_024_StringLiteralvsStringObject.iml" />
     </modules>
   </component>
 </project>
