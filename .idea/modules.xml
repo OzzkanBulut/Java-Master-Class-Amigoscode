@@ -28,6 +28,7 @@
       <module fileurl="file://$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" filepath="$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/_024_StringLiteralvsStringObject/_024_StringLiteralvsStringObject.iml" filepath="$PROJECT_DIR$/_024_StringLiteralvsStringObject/_024_StringLiteralvsStringObject.iml" />
       <module fileurl="file://$PROJECT_DIR$/_025_StringComparision/_025_StringComparision.iml" filepath="$PROJECT_DIR$/_025_StringComparision/_025_StringComparision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" filepath="$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" />
     </modules>
   </component>
 </project>
