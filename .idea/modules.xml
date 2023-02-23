@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/_020_Global-LocalVariables/_020_Global-LocalVariables.iml" filepath="$PROJECT_DIR$/_020_Global-LocalVariables/_020_Global-LocalVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/_021_WrapperClasses/_021_WrapperClasses.iml" filepath="$PROJECT_DIR$/_021_WrapperClasses/_021_WrapperClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" filepath="$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" filepath="$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" />
     </modules>
   </component>
 </project>
