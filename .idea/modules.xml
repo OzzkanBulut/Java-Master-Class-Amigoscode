@@ -30,6 +30,7 @@
       <module fileurl="file://$PROJECT_DIR$/_025_StringComparision/_025_StringComparision.iml" filepath="$PROJECT_DIR$/_025_StringComparision/_025_StringComparision.iml" />
       <module fileurl="file://$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" filepath="$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" filepath="$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" />
     </modules>
   </component>
 </project>
