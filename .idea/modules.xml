@@ -34,6 +34,7 @@
       <module fileurl="file://$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" filepath="$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/_030_Scanner/_030_Scanner.iml" filepath="$PROJECT_DIR$/_030_Scanner/_030_Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/_031_Exceptions/_031_Exceptions.iml" filepath="$PROJECT_DIR$/_031_Exceptions/_031_Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_032_CheckedvsUncheckedExceptions/_032_CheckedvsUncheckedExceptions.iml" filepath="$PROJECT_DIR$/_032_CheckedvsUncheckedExceptions/_032_CheckedvsUncheckedExceptions.iml" />
     </modules>
   </component>
 </project>
