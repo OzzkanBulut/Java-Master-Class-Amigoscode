@@ -42,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/_038_YourFirstClass/_038_YourFirstClass.iml" filepath="$PROJECT_DIR$/_038_YourFirstClass/_038_YourFirstClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/_039_Constructors/_039_Constructors.iml" filepath="$PROJECT_DIR$/_039_Constructors/_039_Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/_040_MultipleConstructors/_040_MultipleConstructors.iml" filepath="$PROJECT_DIR$/_040_MultipleConstructors/_040_MultipleConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_041_ToString/_041_ToString.iml" filepath="$PROJECT_DIR$/_041_ToString/_041_ToString.iml" />
     </modules>
   </component>
 </project>
