@@ -46,6 +46,7 @@
       <module fileurl="file://$PROJECT_DIR$/_042_InsideConstructors/_042_InsideConstructors.iml" filepath="$PROJECT_DIR$/_042_InsideConstructors/_042_InsideConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/_043_ThisKeyword/_043_ThisKeyword.iml" filepath="$PROJECT_DIR$/_043_ThisKeyword/_043_ThisKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/_044_ComparingObjects/_044_ComparingObjects.iml" filepath="$PROJECT_DIR$/_044_ComparingObjects/_044_ComparingObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_045_PersonAndCatsExample/_045_PersonAndCatsExample.iml" filepath="$PROJECT_DIR$/_045_PersonAndCatsExample/_045_PersonAndCatsExample.iml" />
     </modules>
   </component>
 </project>
