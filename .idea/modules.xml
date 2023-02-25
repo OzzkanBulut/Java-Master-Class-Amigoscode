@@ -52,6 +52,7 @@
       <module fileurl="file://$PROJECT_DIR$/_047_JavaBean/_047_JavaBean.iml" filepath="$PROJECT_DIR$/_047_JavaBean/_047_JavaBean.iml" />
       <module fileurl="file://$PROJECT_DIR$/_048_StaticKeyword/_048_StaticKeyword.iml" filepath="$PROJECT_DIR$/_048_StaticKeyword/_048_StaticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/_049_WhenToUseStatic/_049_WhenToUseStatic.iml" filepath="$PROJECT_DIR$/_049_WhenToUseStatic/_049_WhenToUseStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_050_StaticInitializationBlock/_050_StaticInitializationBlock.iml" filepath="$PROJECT_DIR$/_050_StaticInitializationBlock/_050_StaticInitializationBlock.iml" />
     </modules>
   </component>
 </project>
