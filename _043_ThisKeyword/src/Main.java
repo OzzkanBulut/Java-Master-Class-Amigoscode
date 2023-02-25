@@ -3,5 +3,6 @@ public class Main {
         Cat rose = new Cat("Rose",3,"Red");
         System.out.println(rose);
 
+
     }
 }

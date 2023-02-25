@@ -45,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/_041_ToString/_041_ToString.iml" filepath="$PROJECT_DIR$/_041_ToString/_041_ToString.iml" />
       <module fileurl="file://$PROJECT_DIR$/_042_InsideConstructors/_042_InsideConstructors.iml" filepath="$PROJECT_DIR$/_042_InsideConstructors/_042_InsideConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/_043_ThisKeyword/_043_ThisKeyword.iml" filepath="$PROJECT_DIR$/_043_ThisKeyword/_043_ThisKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_044_ComparingObjects/_044_ComparingObjects.iml" filepath="$PROJECT_DIR$/_044_ComparingObjects/_044_ComparingObjects.iml" />
     </modules>
   </component>
 </project>
