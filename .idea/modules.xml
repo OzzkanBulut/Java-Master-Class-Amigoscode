@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
       <module fileurl="file://$PROJECT_DIR$/_002_PassByValuewithReferences/_002_PassByValuewithReferences.iml" filepath="$PROJECT_DIR$/_002_PassByValuewithReferences/_002_PassByValuewithReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/_003_Arrays/_003_Arrays.iml" filepath="$PROJECT_DIR$/_003_Arrays/_003_Arrays.iml" />
