@@ -55,6 +55,7 @@
       <module fileurl="file://$PROJECT_DIR$/_050_StaticInitializationBlock/_050_StaticInitializationBlock.iml" filepath="$PROJECT_DIR$/_050_StaticInitializationBlock/_050_StaticInitializationBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/_051_InstanceBlockInitializer/_051_InstanceBlockInitializer.iml" filepath="$PROJECT_DIR$/_051_InstanceBlockInitializer/_051_InstanceBlockInitializer.iml" />
       <module fileurl="file://$PROJECT_DIR$/_052_StaticImport/_052_StaticImport.iml" filepath="$PROJECT_DIR$/_052_StaticImport/_052_StaticImport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_053_Packages/_053_Packages.iml" filepath="$PROJECT_DIR$/_053_Packages/_053_Packages.iml" />
     </modules>
   </component>
 </project>
