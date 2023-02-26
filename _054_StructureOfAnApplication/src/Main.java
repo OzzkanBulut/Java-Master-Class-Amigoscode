@@ -5,9 +5,19 @@ import car.CarService;
 import garage.Garage;
 import garage.GarageService;
 import person.Person;
+import utils.StringUtils;
 
 import java.math.BigDecimal;
 import java.util.Arrays;
+
+// Packages
+// Model/Domain Classes
+// Service Classes
+// Data Access Object
+// Controllers / REST API
+// Utility Classes --> Classes that can be reused throughout every single package.Available for anyone!
+// Configuration Classes
+
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -29,6 +39,10 @@ public class Main {
         carService.registerNewCar(car1);
         carService.registerNewCar(car1);
         System.out.println(Arrays.toString(carService.getCars()));;
+
+        String example  ="dfjghn";
+        System.out.println(StringUtils.isEmpty(example)); // we used string utils
+
 
 
     }
