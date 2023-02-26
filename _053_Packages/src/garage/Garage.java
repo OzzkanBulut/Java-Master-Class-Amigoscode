@@ -2,7 +2,9 @@ package garage;
 
 import car.Car;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 import java.util.Objects;
 
 public class Garage { // the garage model
@@ -12,7 +14,7 @@ public class Garage { // the garage model
 
     private int number;
     private int capacity;
-    private Car[] cars;
+    private List<Car> cars;
 
     public Garage() {
     }
@@ -20,7 +22,7 @@ public class Garage { // the garage model
     public Garage(int number, int capacity) {
         this.number = number;
         this.capacity = capacity;
-        this.cars = new Car[capacity];
+        this.cars = new ArrayList<>();
     }
 
     public int getNumber() {
@@ -39,12 +41,28 @@ public class Garage { // the garage model
         this.capacity = capacity;
     }
 
-    public Car[] getCars() {
+    public List<Car> getCars() {
         return cars;
     }
 
-    public void setCars(Car[] cars) {
+    public void setCars(List<Car> cars) {
         this.cars = cars;
+    }
+
+
+
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Garage garage = (Garage) o;
+        return number == garage.number && capacity == garage.capacity && Objects.equals(cars, garage.cars);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(number, capacity, cars);
     }
 
     @Override
@@ -52,23 +70,8 @@ public class Garage { // the garage model
         return "Garage{" +
                 "number=" + number +
                 ", capacity=" + capacity +
-                ", cars=" + Arrays.toString(cars) +
+                ", cars=" + cars +
                 '}';
     }
 
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        Garage garage = (Garage) o;
-        return number == garage.number && capacity == garage.capacity && Arrays.equals(cars, garage.cars);
-    }
-
-
-    @Override
-    public int hashCode() {
-        int result = Objects.hash(number, capacity);
-        result = 31 * result + Arrays.hashCode(cars);
-        return result;
-    }
 }

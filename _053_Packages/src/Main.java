@@ -1,6 +1,8 @@
 import car.Brand;
 import car.Car;
 import cat.Cat;
+import garage.Garage;
+import garage.GarageService;
 import person.Gender;
 import person.Person;
 
@@ -9,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         // Packages --> The organization
         // Domain / Model --> Your entities. They are just data.No business logic in here!
         // Service Classes -> Business Logic
@@ -28,14 +30,12 @@ public class Main {
         Car car2 = new Car(Brand.TOFAS,"2", new BigDecimal("10000"));
         cars.add(car1);
         cars.add(car2);
+        Garage garage = new Garage(1,2);
+        GarageService garageService = new GarageService(garage);
+        garageService.addToGarage(car1,garage);
+//        garageService.addToGarage(car2,garage);
 
-        Person özkan = new Person("Özkan",
-                "Bulut",
-                24,
-                Gender.MALE,
-                cats,
-                cars
-                );
-        System.out.println(özkan);
+
+
     }
 }
