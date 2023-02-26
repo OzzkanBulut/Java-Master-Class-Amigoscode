@@ -1,10 +1,13 @@
 import car.Brand;
 import car.Car;
+import car.CarDAO;
+import car.CarService;
 import garage.Garage;
 import garage.GarageService;
 import person.Person;
 
 import java.math.BigDecimal;
+import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) throws Exception {
@@ -20,6 +23,13 @@ public class Main {
         garageService.addToGarage(car3,myGarage);
 
         Person özkan = new Person("Özkan","Bulut",3,myGarage);
+
+        CarDAO carDAO = new CarDAO();
+        CarService carService = new CarService(carDAO);
+        carService.registerNewCar(car1);
+        carService.registerNewCar(car1);
+        System.out.println(Arrays.toString(carService.getCars()));;
+
 
     }
 }

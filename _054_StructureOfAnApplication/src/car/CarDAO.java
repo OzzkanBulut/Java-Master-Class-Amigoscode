@@ -2,7 +2,7 @@ package car;
 
 public class CarDAO {
     private static Car[] cars;
-    private static int nextAvailableSlot = 0;
+    public static int nextAvailableSlot = 0;
 
     public static final int CAPACITY = 100;
 
@@ -16,5 +16,9 @@ public class CarDAO {
         cars[nextAvailableSlot] = car;
         nextAvailableSlot++;
 
+    }
+
+    public Car[] selectAllCars() {
+        return cars;
     }
 }
