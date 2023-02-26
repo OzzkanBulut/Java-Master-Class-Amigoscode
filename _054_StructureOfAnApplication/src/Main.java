@@ -2,6 +2,7 @@ import car.Brand;
 import car.Car;
 import garage.Garage;
 import garage.GarageService;
+import person.Person;
 
 import java.math.BigDecimal;
 
@@ -17,7 +18,8 @@ public class Main {
         garageService.addToGarage(car1,myGarage);
         garageService.addToGarage(car2,myGarage);
         garageService.addToGarage(car3,myGarage);
-        garageService.addToGarage(car3,myGarage);
+
+        Person özkan = new Person("Özkan","Bulut",3,myGarage);
 
     }
 }
