@@ -6,3 +6,7 @@ Encapsulation
 - Easily modify inner workings of a class without affecting the rest of the program or consumers
 - Robust to changes
 - Full Control
+
+ENCAPSULATION IS NOT HIDING DATA.IT'S BUNDLING METHODS AND DATA'S IN ONE.
+
+WE CAN HIDE THE DATA WITH ENCAPSULATION!
