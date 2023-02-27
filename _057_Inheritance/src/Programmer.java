@@ -22,6 +22,7 @@ public class Programmer  extends Employee{
         this.programmingLanguages = programmingLanguages;
     }
     public void writecode(){
+        super.sayHi(); // call the method from the super class.(employee class)
         System.out.println("Code is written");
     }
 

@@ -1,6 +1,9 @@
 public class Manager extends Employee{
     private int teamSize;
 
+    /*
+    Super parameter refers to the constructor of the superclass!
+     */
     public Manager(String name, int age, String address, String experience, int teamSize) {
         super(name, age, address, experience);
         this.teamSize = teamSize;
