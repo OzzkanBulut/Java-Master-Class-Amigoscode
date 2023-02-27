@@ -10,4 +10,16 @@ public class Programmer extends Employee {
         this.programmingLanguages = programmingLanguages;
 
     }
+
+    public String[] getProgrammingLanguages() {
+        return programmingLanguages;
+    }
+
+    public void setProgrammingLanguages(String[] programmingLanguages) {
+        this.programmingLanguages = programmingLanguages;
+    }
+
+    public void writeSomeCode(){
+        System.out.println("Write some code");
+    }
 }
