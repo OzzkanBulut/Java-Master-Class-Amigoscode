@@ -60,6 +60,7 @@
       <module fileurl="file://$PROJECT_DIR$/_054_StructureOfAnApplication/_054_StructureOfAnApplication.iml" filepath="$PROJECT_DIR$/_054_StructureOfAnApplication/_054_StructureOfAnApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/_055_Encapsulation/_055_Encapsulation.iml" filepath="$PROJECT_DIR$/_055_Encapsulation/_055_Encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/_056_DataHiding/_056_DataHiding.iml" filepath="$PROJECT_DIR$/_056_DataHiding/_056_DataHiding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_057_Inheritance/_057_Inheritance.iml" filepath="$PROJECT_DIR$/_057_Inheritance/_057_Inheritance.iml" />
     </modules>
   </component>
 </project>
