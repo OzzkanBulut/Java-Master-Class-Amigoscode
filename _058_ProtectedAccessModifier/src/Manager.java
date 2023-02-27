@@ -17,6 +17,7 @@ public class Manager extends Employee{
         this.teamSize = teamSize;
     }
     public void report(){
+        super.sayHi();
         System.out.println("manager has reported");
     }
 }

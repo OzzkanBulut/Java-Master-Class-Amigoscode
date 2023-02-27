@@ -1,7 +1,7 @@
 import java.util.Objects;
 
 public class Employee {
-    private String name;
+    protected String name;
     private int age;
 
     public Employee(String name, int age) {
@@ -44,5 +44,8 @@ public class Employee {
     @Override
     public int hashCode() {
         return Objects.hash(name, age);
+    }
+    public void sayHi(){
+        System.out.println("Employee says Hi!");
     }
 }
