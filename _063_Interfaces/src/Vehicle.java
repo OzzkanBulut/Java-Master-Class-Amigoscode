@@ -1,7 +1,7 @@
 import java.math.BigDecimal;
 import java.util.Objects;
 
-public class Vehicle {
+public class Vehicle implements VehicleInterface {
 
     private String name;
     private String color;
@@ -58,5 +58,20 @@ public class Vehicle {
     @Override
     public int hashCode() {
         return Objects.hash(name, color, price);
+    }
+
+    @Override
+    public void move() {
+
+    }
+
+    @Override
+    public void breake() {
+
+    }
+
+    @Override
+    public void showPrice() {
+
     }
 }

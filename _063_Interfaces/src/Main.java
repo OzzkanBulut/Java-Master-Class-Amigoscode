@@ -9,6 +9,7 @@ public class Main {
         Vehicle car = new Car("carr","red",new BigDecimal(20002),true);
         Vehicle bicycle = new Bicycle("bicyclee","red",new BigDecimal(100),"somthingbiciyc");
 
+
         List<Vehicle> vehicles = new ArrayList<>();
         vehicles.add(car);
         vehicles.add(bicycle);
@@ -22,6 +23,12 @@ public class Main {
         Person özkan = new Person("özkan",bicycle);
         System.out.println(özkan.getName()+"'s vehicle is : "+özkan.getVehicle().getName());
         // I can say vehicle to get all types of vehicles!
+
+        car.defaultMethod();
+        car.move();
+        bicycle.move();
+
+
 
 
     }

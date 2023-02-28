@@ -1,6 +1,6 @@
 import java.math.BigDecimal;
 
-public class Bicycle extends Vehicle implements VehicleInterface{
+public class Bicycle extends Vehicle {
 
     private String bicycleSomething;
 

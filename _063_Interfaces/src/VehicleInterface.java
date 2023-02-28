@@ -6,4 +6,10 @@ public interface VehicleInterface {
     void move();
     void breake();
     void showPrice();
+
+    //Default method
+    default void defaultMethod(){ // default method is a method that is already in the interface!Subclasses do not need
+        // to implement the dafult method
+        System.out.println("This is the default method!");
+    };
 }

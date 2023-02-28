@@ -1,6 +1,6 @@
 import java.math.BigDecimal;
 
-public class Car extends Vehicle implements VehicleInterface {
+public class Car extends Vehicle  {
     private boolean doesHaveInsurance;
 
     @Override
