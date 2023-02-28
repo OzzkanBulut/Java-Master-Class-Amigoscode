@@ -13,10 +13,16 @@ public class Main {
         vehicles.add(car);
         vehicles.add(bicycle);
         vehicles.add(scooter);
-
+        System.out.println(VehicleInterface.PURCHASE_RATE);; // interface fields are automatically static!
 
         for(Vehicle vehicle: vehicles){
             System.out.println(vehicle);
         }
+
+        Person özkan = new Person("özkan",bicycle);
+        System.out.println(özkan.getName()+"'s vehicle is : "+özkan.getVehicle().getName());
+        // I can say vehicle to get all types of vehicles!
+
+
     }
 }
