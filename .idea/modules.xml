@@ -69,6 +69,7 @@
       <module fileurl="file://$PROJECT_DIR$/_062_Polymorphism/_062_Polymorphism.iml" filepath="$PROJECT_DIR$/_062_Polymorphism/_062_Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/_063_Interfaces/_063_Interfaces.iml" filepath="$PROJECT_DIR$/_063_Interfaces/_063_Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/_064_DependencyInjection/_064_DependencyInjection.iml" filepath="$PROJECT_DIR$/_064_DependencyInjection/_064_DependencyInjection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_065_SOLID Principles/_065_SOLID Principles.iml" filepath="$PROJECT_DIR$/_065_SOLID Principles/_065_SOLID Principles.iml" />
     </modules>
   </component>
 </project>
