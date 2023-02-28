@@ -70,6 +70,7 @@
       <module fileurl="file://$PROJECT_DIR$/_063_Interfaces/_063_Interfaces.iml" filepath="$PROJECT_DIR$/_063_Interfaces/_063_Interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/_064_DependencyInjection/_064_DependencyInjection.iml" filepath="$PROJECT_DIR$/_064_DependencyInjection/_064_DependencyInjection.iml" />
       <module fileurl="file://$PROJECT_DIR$/_065_SOLID Principles/_065_SOLID Principles.iml" filepath="$PROJECT_DIR$/_065_SOLID Principles/_065_SOLID Principles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_065_SingletonsAndInjectAutowire/_065_SingletonsAndInjectAutowire.iml" filepath="$PROJECT_DIR$/_065_SingletonsAndInjectAutowire/_065_SingletonsAndInjectAutowire.iml" />
     </modules>
   </component>
 </project>
