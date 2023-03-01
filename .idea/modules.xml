@@ -72,6 +72,7 @@
       <module fileurl="file://$PROJECT_DIR$/_065_SOLID Principles/_065_SOLID Principles.iml" filepath="$PROJECT_DIR$/_065_SOLID Principles/_065_SOLID Principles.iml" />
       <module fileurl="file://$PROJECT_DIR$/_065_SingletonsAndInjectAutowire/_065_SingletonsAndInjectAutowire.iml" filepath="$PROJECT_DIR$/_065_SingletonsAndInjectAutowire/_065_SingletonsAndInjectAutowire.iml" />
       <module fileurl="file://$PROJECT_DIR$/_066_NullPointerException/_066_NullPointerException.iml" filepath="$PROJECT_DIR$/_066_NullPointerException/_066_NullPointerException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_067_Wrong way to deal with Null/_067_Wrong way to deal with Null.iml" filepath="$PROJECT_DIR$/_067_Wrong way to deal with Null/_067_Wrong way to deal with Null.iml" />
     </modules>
   </component>
 </project>
