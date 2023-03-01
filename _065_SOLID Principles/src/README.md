@@ -13,7 +13,8 @@ In other words, you should not have to rewrite an existing class for implementin
 This means that every subclass or derived class should be substitutable for their base or parent class.
 
 **Interface Segragation**<br>
-Interfaces should not force classes to implement what they can't <br>do.
+Interfaces should not force classes to implement what they can't do.<br>
+Large interfaces should be divided into small ones
 
 **Dependancy Inversion**<br>
 Components should depend on abstractions, not on concretions.
