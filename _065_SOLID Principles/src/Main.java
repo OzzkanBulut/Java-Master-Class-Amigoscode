@@ -7,7 +7,7 @@ public class Main {
         Square square = new Square(3);
         ShapesPrinter shapesPrinter = new ShapesPrinter();
 
-        List<Object> shapes = List.of(circle,square);
+        List<Shape> shapes = List.of(circle,square);
         double sum = areaCalculator.sum(shapes);
         System.out.println(shapesPrinter.json(sum));
         System.out.println(shapesPrinter.csv(sum));
