@@ -85,6 +85,7 @@
       <module fileurl="file://$PROJECT_DIR$/_076_Sets/_076_Sets.iml" filepath="$PROJECT_DIR$/_076_Sets/_076_Sets.iml" />
       <module fileurl="file://$PROJECT_DIR$/_077_Maps/_077_Maps.iml" filepath="$PROJECT_DIR$/_077_Maps/_077_Maps.iml" />
       <module fileurl="file://$PROJECT_DIR$/_078_HashCode and HashFunction/_078_HashCode and HashFunction.iml" filepath="$PROJECT_DIR$/_078_HashCode and HashFunction/_078_HashCode and HashFunction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_079_ClassCastException/_079_ClassCastException.iml" filepath="$PROJECT_DIR$/_079_ClassCastException/_079_ClassCastException.iml" />
     </modules>
   </component>
 </project>
