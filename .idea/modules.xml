@@ -89,6 +89,7 @@
       <module fileurl="file://$PROJECT_DIR$/_080_TypeParameterandTypeArgument/_080_TypeParameterandTypeArgument.iml" filepath="$PROJECT_DIR$/_080_TypeParameterandTypeArgument/_080_TypeParameterandTypeArgument.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/_081_GenericAndClasses.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/_081_GenericAndClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_082_GenericClassExample/_082_GenericClassExample.iml" filepath="$PROJECT_DIR$/_082_GenericClassExample/_082_GenericClassExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_083_GenericandMethods/_083_GenericandMethods.iml" filepath="$PROJECT_DIR$/_083_GenericandMethods/_083_GenericandMethods.iml" />
     </modules>
   </component>
 </project>
