@@ -87,6 +87,7 @@
       <module fileurl="file://$PROJECT_DIR$/_078_HashCode and HashFunction/_078_HashCode and HashFunction.iml" filepath="$PROJECT_DIR$/_078_HashCode and HashFunction/_078_HashCode and HashFunction.iml" />
       <module fileurl="file://$PROJECT_DIR$/_079_ClassCastException/_079_ClassCastException.iml" filepath="$PROJECT_DIR$/_079_ClassCastException/_079_ClassCastException.iml" />
       <module fileurl="file://$PROJECT_DIR$/_080_TypeParameterandTypeArgument/_080_TypeParameterandTypeArgument.iml" filepath="$PROJECT_DIR$/_080_TypeParameterandTypeArgument/_080_TypeParameterandTypeArgument.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/_081_GenericAndClasses.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/_081_GenericAndClasses.iml" />
     </modules>
   </component>
 </project>
