@@ -1,0 +1,11 @@
+Lists
+-
+- An ordered collection aka sequence
+- Allow duplicates
+- Not Fixed in size like arrays
+- Fast for data retrievals
+- Various implementations
+    - ArrayList
+    - Stack
+    - Vector
+    - Others
