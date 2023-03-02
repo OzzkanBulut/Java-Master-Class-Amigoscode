@@ -79,6 +79,7 @@
       <module fileurl="file://$PROJECT_DIR$/_071_Lists/_071_Lists.iml" filepath="$PROJECT_DIR$/_071_Lists/_071_Lists.iml" />
       <module fileurl="file://$PROJECT_DIR$/_072_ArrayList/_072_ArrayList.iml" filepath="$PROJECT_DIR$/_072_ArrayList/_072_ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/_073_Stacks/_073_Stacks.iml" filepath="$PROJECT_DIR$/_073_Stacks/_073_Stacks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_074_Queue/_074_Queue.iml" filepath="$PROJECT_DIR$/_074_Queue/_074_Queue.iml" />
     </modules>
   </component>
 </project>
