@@ -81,6 +81,8 @@
       <module fileurl="file://$PROJECT_DIR$/_073_Stacks/_073_Stacks.iml" filepath="$PROJECT_DIR$/_073_Stacks/_073_Stacks.iml" />
       <module fileurl="file://$PROJECT_DIR$/_074_Queue/_074_Queue.iml" filepath="$PROJECT_DIR$/_074_Queue/_074_Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/_075_LinkedList/_075_LinkedList.iml" filepath="$PROJECT_DIR$/_075_LinkedList/_075_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_076_Sets/_076_Sets.iml" filepath="$PROJECT_DIR$/_076_Sets/_076_Sets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_077_Maps/_077_Maps.iml" filepath="$PROJECT_DIR$/_077_Maps/_077_Maps.iml" />
     </modules>
   </component>
 </project>
