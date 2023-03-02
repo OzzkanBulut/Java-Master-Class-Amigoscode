@@ -11,6 +11,16 @@ public class Main {
         Map<String, String> map = new HashMap<>();
         Map<Integer, String> map2 = new HashMap<>();
 
+/*
+        Generic Type Naming Convention
+
+        List<E> --> E stands for element
+        Map<K,V> --> K stands for key, V stands for value
+        N -> Stands for Number
+
+        Helps us understand the code.
+*/
+
 
 
     }
