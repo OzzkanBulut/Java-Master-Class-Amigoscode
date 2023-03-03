@@ -16,11 +16,17 @@ public class Main {
 //        printList(eeee); --> Does not work because String is not inherits Number Class!
         System.out.println();
         printList(veryBig);
+        System.out.println();
+        System.out.println(returnNumber(2));
+        System.out.println(returnNumber(2.0)); // both works
     }
 
     static void printList(List<? extends Number> list) {
         for (Number n : list) {
             System.out.print(n + " ");
         }
+    }
+    static <E extends Number> E returnNumber(E e){
+        return e;
     }
 }
