@@ -10,7 +10,8 @@ public class GettingStarted {
 
         // 1. Find people aged less or equal 18
         // 2. Then change implementation to find first 10 people
-        List<Person> personList = MockData.getPeople();
+        MockData mockData = new MockData(new PersonDAO(new Person("özkan",23)));
+        List<Person> personList = mockData.getPeople();
         List<Person> youngPeople = new ArrayList<>();
         int count = 0;
         for(Person person : personList){
