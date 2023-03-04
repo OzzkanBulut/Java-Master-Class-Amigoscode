@@ -3,9 +3,9 @@ package animals;
 public class Elephant extends Animal{
     private String elephantSomething;
 
-    public Elephant(String name, int age, boolean isWild) {
+    public Elephant(String name, int age) {
         super(name, age);
-        isWild = false;
+        boolean isAgressive = false;
     }
 
     public String getElephantSomething() {
