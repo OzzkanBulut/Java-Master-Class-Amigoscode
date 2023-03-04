@@ -4,7 +4,8 @@ public class Crocodile extends Animal{
     private String crocodileSomething;
 
     public Crocodile(String name, int age, boolean isWild) {
-        super(name, age, isWild);
+        super(name, age);
+        isWild = true;
     }
 
     public String getCrocodileSomething() {

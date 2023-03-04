@@ -7,10 +7,9 @@ public class Animal {
     private int age;
     private boolean isWild;
 
-    public Animal(String name, int age, boolean isWild) {
+    public Animal(String name, int age) {
         this.name = name;
         this.age = age;
-        this.isWild = isWild;
     }
 
     public String getName() {

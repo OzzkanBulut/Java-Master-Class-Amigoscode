@@ -4,7 +4,8 @@ public class Lion extends Animal{
     private String lionSomething;
 
     public Lion(String name, int age, boolean isWild) {
-        super(name, age, isWild);
+        super(name, age);
+        isWild = true;
     }
 
     public String getLionSomething() {
