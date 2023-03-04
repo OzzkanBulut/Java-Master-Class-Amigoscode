@@ -1,3 +1,5 @@
+package animals;
+
 import java.util.Objects;
 
 public class Animal {
@@ -37,7 +39,7 @@ public class Animal {
 
     @Override
     public String toString() {
-        return "Animal{" +
+        return "animals.Animal{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", isWild=" + isWild +
