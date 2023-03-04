@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise 5-CLI/Exercise 5-CLI.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise 5-CLI/Exercise 5-CLI.iml" />
       <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-3 CLI Project Continue/Exercise-3 CLI Project Continue.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-3 CLI Project Continue/Exercise-3 CLI Project Continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
       <module fileurl="file://$PROJECT_DIR$/_002_PassByValuewithReferences/_002_PassByValuewithReferences.iml" filepath="$PROJECT_DIR$/_002_PassByValuewithReferences/_002_PassByValuewithReferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/_003_Arrays/_003_Arrays.iml" filepath="$PROJECT_DIR$/_003_Arrays/_003_Arrays.iml" />
@@ -102,6 +102,7 @@
       <module fileurl="file://$PROJECT_DIR$/_092_DeclarativeSolution/_092_DeclarativeSolution.iml" filepath="$PROJECT_DIR$/_092_DeclarativeSolution/_092_DeclarativeSolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/_093_ImperativeSolution/_093_ImperativeSolution.iml" filepath="$PROJECT_DIR$/_093_ImperativeSolution/_093_ImperativeSolution.iml" />
       <module fileurl="file://$PROJECT_DIR$/_094_VisualiseStreams/_094_VisualiseStreams.iml" filepath="$PROJECT_DIR$/_094_VisualiseStreams/_094_VisualiseStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_095_Maven/_095_Maven.iml" filepath="$PROJECT_DIR$/_095_Maven/_095_Maven.iml" />
     </modules>
   </component>
 </project>
