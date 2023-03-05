@@ -1,5 +1,7 @@
 package animals;
 
+import java.util.Comparator;
+import java.util.Iterator;
 import java.util.List;
 
 public class CageManager {
@@ -10,13 +12,20 @@ public class CageManager {
         this.animals = animals;
     }
 
-    List<Animal> getAnimals(){
+    List<Animal> getAnimals() {
         return this.animals;
     }
 
-    void setCage(List<Animal> animals){
-        for(Animal animal:animals){
-        }
+    void setCage(List<Animal> animals) throws Exception {
+        for (int i = 0; i < animals.size() - 1; i++) {
+            for (int j = 1; j < animals.size(); j++) {
+                if (!animals.get(i).equals(animals.get(j))) {
+                    throw new Exception("Agressive animals can not be put into a cage with safe animals!");
+                }
+            }
 
+        }
     }
+
 }
+
