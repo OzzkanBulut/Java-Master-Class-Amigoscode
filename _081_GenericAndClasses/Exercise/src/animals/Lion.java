@@ -3,9 +3,9 @@ package animals;
 public class Lion extends Animal{
     private String lionSomething;
 
-    public Lion(String name, int age) {
-        super(name, age);
-        boolean isAgressive = true;
+    public Lion(String name, int age, boolean isAgressive, String lionSomething) {
+        super(name, age, isAgressive);
+        this.lionSomething = lionSomething;
     }
 
     public String getLionSomething() {

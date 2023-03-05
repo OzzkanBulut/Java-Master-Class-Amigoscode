@@ -2,9 +2,7 @@ package animals;
 
 public class Bear extends Animal{
 
-    public Bear(String name, int age) {
-        super(name, age);
-        boolean isAgressive = true;
+    public Bear(String name, int age, boolean isAgressive) {
+        super(name, age, isAgressive);
     }
-
 }

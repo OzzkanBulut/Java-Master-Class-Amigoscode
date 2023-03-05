@@ -15,7 +15,8 @@ public class CageManager {
     }
 
     void setCage(List<Animal> animals){
-
+        for(Animal animal:animals){
+        }
 
     }
 }

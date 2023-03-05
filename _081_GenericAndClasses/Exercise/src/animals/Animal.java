@@ -5,11 +5,12 @@ import java.util.Objects;
 public class Animal {
     private String name;
     private int age;
-    private boolean isWild;
+    private boolean isAgressive;
 
-    public Animal(String name, int age) {
+    public Animal(String name, int age, boolean isAgressive) {
         this.name = name;
         this.age = age;
+        this.isAgressive = isAgressive;
     }
 
     public String getName() {
@@ -28,12 +29,12 @@ public class Animal {
         this.age = age;
     }
 
-    public boolean isWild() {
-        return isWild;
+    public boolean isAgressive() {
+        return isAgressive;
     }
 
-    public void setWild(boolean wild) {
-        isWild = wild;
+    public void setAgressive(boolean agressive) {
+        isAgressive = agressive;
     }
 
     @Override
@@ -41,7 +42,7 @@ public class Animal {
         return "animals.Animal{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
-                ", isWild=" + isWild +
+                ", isWild=" + isAgressive +
                 '}';
     }
 
@@ -50,12 +51,12 @@ public class Animal {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Animal animal = (Animal) o;
-        return age == animal.age && isWild == animal.isWild && Objects.equals(name, animal.name);
+        return age == animal.age && isAgressive == animal.isAgressive && Objects.equals(name, animal.name);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hash(name, age, isWild);
+        return Objects.hash(name, age, isAgressive);
     }
 
 }
