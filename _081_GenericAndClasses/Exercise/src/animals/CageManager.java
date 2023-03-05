@@ -19,7 +19,7 @@ public class CageManager {
     void setCage(List<Animal> animals) throws Exception {
         for (int i = 0; i < animals.size() - 1; i++) {
             for (int j = 1; j < animals.size(); j++) {
-                if (!animals.get(i).equals(animals.get(j))) {
+                if (!animals.get(i).isAgressive() == animals.get(j).isAgressive()) {
                     throw new Exception("Agressive animals can not be put into a cage with safe animals!");
                 }
             }

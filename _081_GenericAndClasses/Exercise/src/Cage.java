@@ -10,6 +10,9 @@ public class Cage <T extends Animal> {
         this.animals = animals;
     }
 
+    public Cage() {
+    }
+
     public List<T> getAnimals() {
         return animals;
     }
