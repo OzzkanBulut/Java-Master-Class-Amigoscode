@@ -2,9 +2,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PersonDAO {
-    Person person;
-    public PersonDAO(Person person) {
-        this.person = person;
+    public PersonDAO( ) {
+
     }
 List<Person> personList;
      {
