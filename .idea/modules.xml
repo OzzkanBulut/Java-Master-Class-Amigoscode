@@ -100,10 +100,7 @@
       <module fileurl="file://$PROJECT_DIR$/_089_TypeErasure/_089_TypeErasure.iml" filepath="$PROJECT_DIR$/_089_TypeErasure/_089_TypeErasure.iml" />
       <module fileurl="file://$PROJECT_DIR$/_090_Streams/_090_Streams.iml" filepath="$PROJECT_DIR$/_090_Streams/_090_Streams.iml" />
       <module fileurl="file://$PROJECT_DIR$/_091_Exercise/_091_Exercise.iml" filepath="$PROJECT_DIR$/_091_Exercise/_091_Exercise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_092_DeclarativeSolution/_092_DeclarativeSolution.iml" filepath="$PROJECT_DIR$/_092_DeclarativeSolution/_092_DeclarativeSolution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_093_ImperativeSolution/_093_ImperativeSolution.iml" filepath="$PROJECT_DIR$/_093_ImperativeSolution/_093_ImperativeSolution.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_094_VisualiseStreams/_094_VisualiseStreams.iml" filepath="$PROJECT_DIR$/_094_VisualiseStreams/_094_VisualiseStreams.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_095_Maven/_095_Maven.iml" filepath="$PROJECT_DIR$/_095_Maven/_095_Maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_092_Maven/_092_Maven.iml" filepath="$PROJECT_DIR$/_092_Maven/_092_Maven.iml" />
     </modules>
   </component>
 </project>
