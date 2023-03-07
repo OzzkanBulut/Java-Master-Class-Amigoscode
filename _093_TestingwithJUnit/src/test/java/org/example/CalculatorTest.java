@@ -18,9 +18,15 @@ public class CalculatorTest {
         assertEquals(30,result); // we are expecting 30, is the result same ?
 
         // TEST IS COMPLETE AND PASSED
-
-
-
     }
+    @Test
+    void canHandleWhenInputIsZero(){ // naming convention
+
+        Calculator underTest = new Calculator();
+
+        var result = underTest.add(0);
+        assertEquals(0,result);
+    }
+
 
 }
