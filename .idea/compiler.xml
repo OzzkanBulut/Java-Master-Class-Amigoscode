@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="_092_Maven" />
         <module name="_093_TestingwithJUnit" />
+        <module name="_094_WhatIsSpringBoot" />
       </profile>
     </annotationProcessing>
   </component>
