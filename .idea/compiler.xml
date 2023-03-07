@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="_092_Maven" />
+        <module name="_095_SpringBoot" />
         <module name="_093_TestingwithJUnit" />
         <module name="_094_WhatIsSpringBoot" />
       </profile>
@@ -15,6 +16,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="_002_PassByValuewithReferences" options="--add-exports java.base/java=ALL-UNNAMED" />
+      <module name="_095_SpringBoot" options="-parameters" />
     </option>
   </component>
 </project>
