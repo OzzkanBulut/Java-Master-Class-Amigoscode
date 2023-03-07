@@ -20,3 +20,4 @@ Maven
 - backward-compatible with existing applet code
 - an open standard, fully extendable and written in java
 - the preferred way to bundle the pieces of a java applet
+![img.png](img.png)
