@@ -20,13 +20,26 @@ public class CalculatorTest {
         // TEST IS COMPLETE AND PASSED
     }
     @Test
-    void canHandleWhenInputIsZero(){ // naming convention
+    void canHandleWhenInputIsZero(){
 
         Calculator underTest = new Calculator();
 
         var result = underTest.add(0);
         assertEquals(0,result);
     }
+
+    @Test
+    void canAddNumbersFromGivenArray(){ // Be descriptive as you can, This test works too!
+
+        Calculator underTest = new Calculator();
+        var numbers = new int[]{1,5,3};
+
+        var result = underTest.add(numbers);
+        assertEquals(9,result);
+    }
+
+
+
 
 
 }
