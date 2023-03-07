@@ -16,3 +16,9 @@ What Spring Can Do?
 
 **Web Apps**
 - Frameworks for fast, secure, and responsive web applications connected to any data store.
+
+**Serverless**
+- The ultimate flexibility. Scale up on demand and scale to zero when there's no demand.
+
+**Event Driven**
+- Integrate with your enterprise. React to business events. Act on your streaming data in real time.
