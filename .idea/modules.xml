@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/006- If Statements/006- If Statements.iml" filepath="$PROJECT_DIR$/006- If Statements/006- If Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/007- Logical Operators/007- Logical Operators.iml" filepath="$PROJECT_DIR$/007- Logical Operators/007- Logical Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/008- Switch Statements/008- Switch Statements.iml" filepath="$PROJECT_DIR$/008- Switch Statements/008- Switch Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009- Access Modifiers/009- Access Modifiers.iml" filepath="$PROJECT_DIR$/009- Access Modifiers/009- Access Modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010- Static Keyword/010- Static Keyword.iml" filepath="$PROJECT_DIR$/010- Static Keyword/010- Static Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
@@ -16,8 +18,6 @@
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_009_Access Modifiers/_009_Access Modifiers.iml" filepath="$PROJECT_DIR$/_009_Access Modifiers/_009_Access Modifiers.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_010_Static Keyword/_010_Static Keyword.iml" filepath="$PROJECT_DIR$/_010_Static Keyword/_010_Static Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/_011_Methods/_011_Methods.iml" filepath="$PROJECT_DIR$/_011_Methods/_011_Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/_012_Method Example/_012_Method Example.iml" filepath="$PROJECT_DIR$/_012_Method Example/_012_Method Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/_013_PublicStaticVoidMain/_013_PublicStaticVoidMain.iml" filepath="$PROJECT_DIR$/_013_PublicStaticVoidMain/_013_PublicStaticVoidMain.iml" />
