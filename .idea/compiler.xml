@@ -15,7 +15,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="_002_PassByValuewithReferences" options="--add-exports java.base/java=ALL-UNNAMED" />
+      <module name="002- Pass By Value with References" options="--add-exports java.base/java=ALL-UNNAMED" />
       <module name="_095_SpringBoot" options="-parameters" />
     </option>
   </component>
