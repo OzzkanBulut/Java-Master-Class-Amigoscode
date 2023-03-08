@@ -4,15 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/002- Pass By Value with References/002- Pass By Value with References.iml" filepath="$PROJECT_DIR$/002- Pass By Value with References/002- Pass By Value with References.iml" />
       <module fileurl="file://$PROJECT_DIR$/003- Arrays/003- Arrays.iml" filepath="$PROJECT_DIR$/003- Arrays/003- Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/004- Array Loops/004- Array Loops.iml" filepath="$PROJECT_DIR$/004- Array Loops/004- Array Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/005- While do While/005- While do While.iml" filepath="$PROJECT_DIR$/005- While do While/005- While do While.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-1/Exercise-1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-3 CLI Project Continue/Exercise-3 CLI Project Continue.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-3 CLI Project Continue/Exercise-3 CLI Project Continue.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_000_Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" filepath="$PROJECT_DIR$/_000_Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-3 CLI Project Continue/Exercise-3 CLI Project Continue.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-3 CLI Project Continue/Exercise-3 CLI Project Continue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-4 CLI with List/Exercise-4 CLI with List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_004_Array Loops/_004_Array Loops.iml" filepath="$PROJECT_DIR$/_004_Array Loops/_004_Array Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_005_WhiledoWhile/_005_WhiledoWhile.iml" filepath="$PROJECT_DIR$/_005_WhiledoWhile/_005_WhiledoWhile.iml" />
       <module fileurl="file://$PROJECT_DIR$/_006_If Statements/_006_If Statements.iml" filepath="$PROJECT_DIR$/_006_If Statements/_006_If Statements.iml" />
       <module fileurl="file://$PROJECT_DIR$/_007_Logical Operators/_007_Logical Operators.iml" filepath="$PROJECT_DIR$/_007_Logical Operators/_007_Logical Operators.iml" />
       <module fileurl="file://$PROJECT_DIR$/_008_Switch Statements/_008_Switch Statements.iml" filepath="$PROJECT_DIR$/_008_Switch Statements/_008_Switch Statements.iml" />
