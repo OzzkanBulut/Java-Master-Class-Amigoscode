@@ -98,6 +98,14 @@ optional value argument, no method argument.**The update in CRUD**
 An abbreviated form of @RequestMapping specifically for HTTP DELETE requests, which only takes an
 optional value argument, no method argument.**The delete in CRUD**
 
+**@RequestParam(value="name",defaultValue = "World")**
+
+Naturally, the methods handling the requests might take parameters. To help
+you with binding the HTTP parameters into the action method arguments, you can use
+@RequestParam(value="name",defaultValue = "World") annotation.
+Spring will parse the request parameters and put the appropriate ones into
+your method arguments.
+
 
 
 
