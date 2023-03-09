@@ -83,5 +83,12 @@ action methods. If you don't specify a method value, it will default to GET.
 An abbreviated form of @RequestMapping specifically for HTTP GET requests, which can only takes
 an optional value argument, no method argument.**The Read in CRUD**
 
+**@PostMapping(value = "/path")**
+
+An abbreviated form of @RequestMapping specifically for HTTP POST requests, which only 
+takes an optional value argument, no method argument.**The Create in Crud**
+
+
+
 
 
