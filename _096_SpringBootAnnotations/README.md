@@ -21,3 +21,15 @@ libraries you use and pre-configure their components without you lifting a finge
 It is how all the spring-boot-starter libraries work. Meaning it's a major lifesaver both
 when you're just starting to work with a library as well as when you know and trust the default config
 to be reasonable.
+
+**Spring Data**
+
+**@Transactional**
+
+Is the spring declarative transaction management annotation.
+
+**Spring Security**
+
+**@EnableWebSecurity**
+
+Is used with @Configuration class to have the Spring Security configuration defined
