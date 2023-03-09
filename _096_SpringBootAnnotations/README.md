@@ -72,4 +72,11 @@ response to the user.
 
 **@RequestMapping(method = RequestMethod.Get, value ="/path")**
 
+This annotation specifies a method in the controller that should be responsible for serving the
+HTTP request to the given path, or endpoint. Spring handles the mechanical details of how this
+is achieved for you. You simpl specify the method and path parameters on the 
+annotation and Spring will route the requests into the correct
+action methods. If you don't specify a method value, it will default to GET.
+
+
 
