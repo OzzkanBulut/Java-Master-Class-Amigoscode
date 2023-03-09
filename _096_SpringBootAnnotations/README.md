@@ -93,6 +93,12 @@ takes an optional value argument, no method argument.**The Create in Crud**
 An abbreviated form of @RequestMapping specifically for HTTP PUT requests, which only takes an 
 optional value argument, no method argument.**The update in CRUD**
 
+**@DeleteMapping**
+
+An abbreviated form of @RequestMapping specifically for HTTP DELETE requests, which only takes an
+optional value argument, no method argument.**The delete in CRUD**
+
+
 
 
 
