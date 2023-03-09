@@ -106,6 +106,11 @@ you with binding the HTTP parameters into the action method arguments, you can u
 Spring will parse the request parameters and put the appropriate ones into
 your method arguments.
 
+**@PathVariable("placeHolderName)**
+
+Another common way to provide information to the backend is to encode it 
+in the URL. Then you can use the @PathVariable("PlaceHoldername") annotation to bring the
+values from the URL to the method arguments.
 
 
 
