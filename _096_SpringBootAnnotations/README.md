@@ -78,5 +78,10 @@ is achieved for you. You simpl specify the method and path parameters on the
 annotation and Spring will route the requests into the correct
 action methods. If you don't specify a method value, it will default to GET.
 
+**@GetMapping(value = "/path")**
+
+An abbreviated form of @RequestMapping specifically for HTTP GET requests, which can only takes
+an optional value argument, no method argument.**The Read in CRUD**
+
 
 
