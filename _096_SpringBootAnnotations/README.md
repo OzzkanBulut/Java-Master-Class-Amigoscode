@@ -33,3 +33,27 @@ Is the spring declarative transaction management annotation.
 **@EnableWebSecurity**
 
 Is used with @Configuration class to have the Spring Security configuration defined
+
+# **Spring Web MVC Annotations**
+
+**@Controller**
+
+Marks the class as a web controller. A specialisation of the @Component annotation,
+which allows Spring to auto-detect implementation classes/beans by scanning the
+classpath.
+
+**@RestController**
+
+The @RestController annotation is a convenience syntax for @Controller and @ResponseBody together.
+This indicates that the class is a controller, and that all the methods in the marked class
+will return a JSON response.
+
+**@Responsebody**
+
+The @ResponseBody is a utility annotation that tells Spring to automatically
+serialize return value(s) of this classes methods into HTTP responses. When building
+a JSON endpoint, this is an amazing way to "magically" **convert your objects into JSON** 
+for easier consumption. If we use the @RestController annotation on our class, we don't need
+this annotation at all, because @RestController inherits from it.
+
+
