@@ -12,3 +12,12 @@ It's syntactic sugar for combining other annotations that we'll look at in just 
 **@SpringBootApplication** is @Configuration, @EnableAutoConfiguration and 
 @ComponentScan annotations combined, configured with their default attributes. We add this
 annotation just once, to the main class of our application.
+
+**@EnableAutoConfiguration**
+
+@EnableAutoConfiguration annotation is even better. It makes Spring guess the configuration
+based on the Jar files available on the **classpath**. It can figure out what
+libraries you use and pre-configure their components without you lifting a finger.
+It is how all the spring-boot-starter libraries work. Meaning it's a major lifesaver both
+when you're just starting to work with a library as well as when you know and trust the default config
+to be reasonable.
