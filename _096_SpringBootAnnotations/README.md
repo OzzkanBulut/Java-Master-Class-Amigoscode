@@ -56,4 +56,20 @@ a JSON endpoint, this is an amazing way to "magically" **convert your objects in
 for easier consumption. If we use the @RestController annotation on our class, we don't need
 this annotation at all, because @RestController inherits from it.
 
+**@RequestBody**
+
+The @RequestBody annotation is used to bind the HTTP request body to a Java object.
+The @RequestBody annotation is part of the spring framework and is used in conjunction
+with the spring MVC web framework. The spring MVC web framework is a Java-based web application
+framework that provides a comprehensive set of features for building
+web applications. The spring framework is a populara choice for building Java-based
+web applications. The spring MVC web framework is based on the **Model-View-Controller
+(MVC) architecture**. The MVC architecture is a design pattern that seperates an application
+into three components: the mode, the view and the controller. The @RequestBody annotation is used to 
+bind the HTTP request body to the controller. The controller processes the
+request and then sends the response back to the view. The view displays the
+response to the user.
+
+**@RequestMapping(method = RequestMethod.Get, value ="/path")**
+
 
