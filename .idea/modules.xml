@@ -17,6 +17,8 @@
       <module fileurl="file://$PROJECT_DIR$/015- Break Keyword and Loops/015- Break Keyword and Loops.iml" filepath="$PROJECT_DIR$/015- Break Keyword and Loops/015- Break Keyword and Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/016- Continue/016- Continue.iml" filepath="$PROJECT_DIR$/016- Continue/016- Continue.iml" />
       <module fileurl="file://$PROJECT_DIR$/017- FinalKeyword/017- FinalKeyword.iml" filepath="$PROJECT_DIR$/017- FinalKeyword/017- FinalKeyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018- Enums/018- Enums.iml" filepath="$PROJECT_DIR$/018- Enums/018- Enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019- Type Casting/019- Type Casting.iml" filepath="$PROJECT_DIR$/019- Type Casting/019- Type Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
@@ -25,8 +27,6 @@
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
       <module fileurl="file://$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" filepath="$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_018_Enums/_018_Enums.iml" filepath="$PROJECT_DIR$/_018_Enums/_018_Enums.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_019_TypeCasting/_019_TypeCasting.iml" filepath="$PROJECT_DIR$/_019_TypeCasting/_019_TypeCasting.iml" />
       <module fileurl="file://$PROJECT_DIR$/_020_Global-LocalVariables/_020_Global-LocalVariables.iml" filepath="$PROJECT_DIR$/_020_Global-LocalVariables/_020_Global-LocalVariables.iml" />
       <module fileurl="file://$PROJECT_DIR$/_021_WrapperClasses/_021_WrapperClasses.iml" filepath="$PROJECT_DIR$/_021_WrapperClasses/_021_WrapperClasses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" filepath="$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" />
