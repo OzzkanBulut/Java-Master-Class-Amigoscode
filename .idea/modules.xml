@@ -21,6 +21,11 @@
       <module fileurl="file://$PROJECT_DIR$/019- Type Casting/019- Type Casting.iml" filepath="$PROJECT_DIR$/019- Type Casting/019- Type Casting.iml" />
       <module fileurl="file://$PROJECT_DIR$/020- Global Local Variables/020- Global Local Variables.iml" filepath="$PROJECT_DIR$/020- Global Local Variables/020- Global Local Variables.iml" />
       <module fileurl="file://$PROJECT_DIR$/021- Wrapper Classes/021- Wrapper Classes.iml" filepath="$PROJECT_DIR$/021- Wrapper Classes/021- Wrapper Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/022- Working with Strings/022- Working with Strings.iml" filepath="$PROJECT_DIR$/022- Working with Strings/022- Working with Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023- How Strings Work/023- How Strings Work.iml" filepath="$PROJECT_DIR$/023- How Strings Work/023- How Strings Work.iml" />
+      <module fileurl="file://$PROJECT_DIR$/024- String Literal vs String Object/024- String Literal vs String Object.iml" filepath="$PROJECT_DIR$/024- String Literal vs String Object/024- String Literal vs String Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/025- String Comparision/025- String Comparision.iml" filepath="$PROJECT_DIR$/025- String Comparision/025- String Comparision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/026- String Methods/026- String Methods.iml" filepath="$PROJECT_DIR$/026- String Methods/026- String Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
@@ -29,11 +34,6 @@
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-5-CLI/Exercise-5-CLI.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
       <module fileurl="file://$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" filepath="$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" filepath="$PROJECT_DIR$/_022_WorkingWithStrings/_022_WorkingWithStrings.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" filepath="$PROJECT_DIR$/_023_HowStringsWork/_023_HowStringsWork.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_024_StringLiteralvsStringObject/_024_StringLiteralvsStringObject.iml" filepath="$PROJECT_DIR$/_024_StringLiteralvsStringObject/_024_StringLiteralvsStringObject.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_025_StringComparision/_025_StringComparision.iml" filepath="$PROJECT_DIR$/_025_StringComparision/_025_StringComparision.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" filepath="$PROJECT_DIR$/_026_StringMethods/_026_StringMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" filepath="$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" filepath="$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" />
