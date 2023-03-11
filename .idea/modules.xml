@@ -26,6 +26,7 @@
       <module fileurl="file://$PROJECT_DIR$/024- String Literal vs String Object/024- String Literal vs String Object.iml" filepath="$PROJECT_DIR$/024- String Literal vs String Object/024- String Literal vs String Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/025- String Comparision/025- String Comparision.iml" filepath="$PROJECT_DIR$/025- String Comparision/025- String Comparision.iml" />
       <module fileurl="file://$PROJECT_DIR$/026- String Methods/026- String Methods.iml" filepath="$PROJECT_DIR$/026- String Methods/026- String Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/028- Problem with Double/028- Problem with Double.iml" filepath="$PROJECT_DIR$/028- Problem with Double/028- Problem with Double.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
@@ -35,7 +36,6 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" filepath="$PROJECT_DIR$/.idea/Java-Master-Class-Amigoscode.iml" />
       <module fileurl="file://$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" filepath="$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" />
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" filepath="$PROJECT_DIR$/_028_ProblemWithDouble/_028_ProblemWithDouble.iml" />
       <module fileurl="file://$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" filepath="$PROJECT_DIR$/_029_BigDecimal/_029_BigDecimal.iml" />
       <module fileurl="file://$PROJECT_DIR$/_030_Scanner/_030_Scanner.iml" filepath="$PROJECT_DIR$/_030_Scanner/_030_Scanner.iml" />
       <module fileurl="file://$PROJECT_DIR$/_031_Exceptions/_031_Exceptions.iml" filepath="$PROJECT_DIR$/_031_Exceptions/_031_Exceptions.iml" />
