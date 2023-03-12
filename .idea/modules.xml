@@ -45,6 +45,8 @@
       <module fileurl="file://$PROJECT_DIR$/044- Comparing Objects/044- Comparing Objects.iml" filepath="$PROJECT_DIR$/044- Comparing Objects/044- Comparing Objects.iml" />
       <module fileurl="file://$PROJECT_DIR$/045- Person and Cats Example/045- Person and Cats Example.iml" filepath="$PROJECT_DIR$/045- Person and Cats Example/045- Person and Cats Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/046- POJOs/046- POJOs.iml" filepath="$PROJECT_DIR$/046- POJOs/046- POJOs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/047- Java Bean/047- Java Bean.iml" filepath="$PROJECT_DIR$/047- Java Bean/047- Java Bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/048- Static Keyword/048- Static Keyword.iml" filepath="$PROJECT_DIR$/048- Static Keyword/048- Static Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
@@ -55,8 +57,6 @@
       <module fileurl="file://$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" filepath="$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" />
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" filepath="$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_047_JavaBean/_047_JavaBean.iml" filepath="$PROJECT_DIR$/_047_JavaBean/_047_JavaBean.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_048_StaticKeyword/_048_StaticKeyword.iml" filepath="$PROJECT_DIR$/_048_StaticKeyword/_048_StaticKeyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/_049_WhenToUseStatic/_049_WhenToUseStatic.iml" filepath="$PROJECT_DIR$/_049_WhenToUseStatic/_049_WhenToUseStatic.iml" />
       <module fileurl="file://$PROJECT_DIR$/_050_StaticInitializationBlock/_050_StaticInitializationBlock.iml" filepath="$PROJECT_DIR$/_050_StaticInitializationBlock/_050_StaticInitializationBlock.iml" />
       <module fileurl="file://$PROJECT_DIR$/_051_InstanceBlockInitializer/_051_InstanceBlockInitializer.iml" filepath="$PROJECT_DIR$/_051_InstanceBlockInitializer/_051_InstanceBlockInitializer.iml" />
