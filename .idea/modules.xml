@@ -36,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/035- Creating Files/035- Creating Files.iml" filepath="$PROJECT_DIR$/035- Creating Files/035- Creating Files.iml" />
       <module fileurl="file://$PROJECT_DIR$/036- File Methods/036- File Methods.iml" filepath="$PROJECT_DIR$/036- File Methods/036- File Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/037- Try with Resources/037- Try with Resources.iml" filepath="$PROJECT_DIR$/037- Try with Resources/037- Try with Resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/038- Classes/038- Classes.iml" filepath="$PROJECT_DIR$/038- Classes/038- Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
@@ -46,7 +47,6 @@
       <module fileurl="file://$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" filepath="$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" />
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" filepath="$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_038_Classes/_038_Classes.iml" filepath="$PROJECT_DIR$/_038_Classes/_038_Classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/_039_Constructors/_039_Constructors.iml" filepath="$PROJECT_DIR$/_039_Constructors/_039_Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/_040_MultipleConstructors/_040_MultipleConstructors.iml" filepath="$PROJECT_DIR$/_040_MultipleConstructors/_040_MultipleConstructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/_041_ToString/_041_ToString.iml" filepath="$PROJECT_DIR$/_041_ToString/_041_ToString.iml" />
