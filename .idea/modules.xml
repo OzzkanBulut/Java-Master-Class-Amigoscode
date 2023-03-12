@@ -43,6 +43,7 @@
       <module fileurl="file://$PROJECT_DIR$/042- Inside Constructors/042- Inside Constructors.iml" filepath="$PROJECT_DIR$/042- Inside Constructors/042- Inside Constructors.iml" />
       <module fileurl="file://$PROJECT_DIR$/043- This Keyword/043- This Keyword.iml" filepath="$PROJECT_DIR$/043- This Keyword/043- This Keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/044- Comparing Objects/044- Comparing Objects.iml" filepath="$PROJECT_DIR$/044- Comparing Objects/044- Comparing Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/045- Person and Cats Example/045- Person and Cats Example.iml" filepath="$PROJECT_DIR$/045- Person and Cats Example/045- Person and Cats Example.iml" />
       <module fileurl="file://$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" filepath="$PROJECT_DIR$/_081_GenericAndClasses/Exercise/Exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-1/Exercise-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" filepath="$PROJECT_DIR$/000- Exercises/Exercise-2-First CLI Project/Exercise-2-First CLI Project.iml" />
@@ -53,7 +54,6 @@
       <module fileurl="file://$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" filepath="$PROJECT_DIR$/_014_TypeInferenceWithVar/_014_TypeInferenceWithVar.iml" />
       <module fileurl="file://$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" filepath="$PROJECT_DIR$/_027_LocalDateTime/_027_LocalDateTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" filepath="$PROJECT_DIR$/_033_ThrowandThrows/_033_ThrowandThrows.iml" />
-      <module fileurl="file://$PROJECT_DIR$/_045_PersonAndCatsExample/_045_PersonAndCatsExample.iml" filepath="$PROJECT_DIR$/_045_PersonAndCatsExample/_045_PersonAndCatsExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/_046_POJOs/_046_POJOs.iml" filepath="$PROJECT_DIR$/_046_POJOs/_046_POJOs.iml" />
       <module fileurl="file://$PROJECT_DIR$/_047_JavaBean/_047_JavaBean.iml" filepath="$PROJECT_DIR$/_047_JavaBean/_047_JavaBean.iml" />
       <module fileurl="file://$PROJECT_DIR$/_048_StaticKeyword/_048_StaticKeyword.iml" filepath="$PROJECT_DIR$/_048_StaticKeyword/_048_StaticKeyword.iml" />
