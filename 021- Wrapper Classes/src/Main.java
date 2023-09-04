@@ -14,6 +14,9 @@ public class Main {
         Integer iAge = 20; // a lot of methods for iAge
         System.out.println(iAge.getClass());
 
+        Long num = 22222L;
+        System.out.println(num.getClass());
+
         Double dPrice = 32.23;
         var ageStr = "55";
         int converted = Integer.parseInt(ageStr); // convert string to integer with the help of Integer class
