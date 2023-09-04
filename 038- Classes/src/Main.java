@@ -3,6 +3,7 @@ public class Main {
         Cat kitty = new Cat();
         kitty.setName("kitty");
         System.out.println(kitty.getName());
+        
 
 //        kitty.name --> not reachable because name is private
 
