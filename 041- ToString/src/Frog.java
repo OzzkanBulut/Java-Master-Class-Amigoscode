@@ -28,6 +28,9 @@ public class Frog {
 
     @Override
     public String toString() {
-        return "Name: "+name+ " Color: " +color ;
+        return "Frog{" +
+                "name='" + name + '\'' +
+                ", color='" + color + '\'' +
+                '}';
     }
 }

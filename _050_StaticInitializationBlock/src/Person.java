@@ -1,11 +1,11 @@
 public class Person {
     public static int count;
 
-    static{
-        System.out.println("Start: static block initialization");
-        count = 0;
-        System.out.println("End: static block initialization");
-    }
+   static {
+       System.out.println("Static initializaiton block begins:");
+       count++;
+       System.out.println("Static block ends");
+   }
     private String firstName;
     private String lastName;
 
