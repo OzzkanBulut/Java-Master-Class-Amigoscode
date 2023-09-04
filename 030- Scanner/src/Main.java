@@ -3,15 +3,11 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
-        System.out.println("Hello whats your name");
-        String input = scan.nextLine();
-
-        System.out.println("Hello " + input);
-
-        System.out.println("Age?");
+        System.out.println("Enter your name");
+        String name = scan.nextLine();
+        System.out.println("How old are you "+ name);
         int age = scan.nextInt();
-        System.out.println(age);
+
 
     }
 }
